@@ -92,3 +92,15 @@ Specify the project settings, including project name and directory.
 Find or create 3D models for the drone's body, rotors, and any other components.
 Import the models into Unreal Engine by using the "Import" option in the Content Browser.
 Ensure the models are properly scaled and positioned for later use.
+
+
+![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/b8dbbc88-b57e-4b11-a0f9-52a41a62f620)
+
+**Create the Drone Blueprint:**
+
+Find or create 3D models for the drone's body, rotors, and any other components.
+Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."
+Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.
+In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.
+
+![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/5b29510e-2a3f-4b68-b25f-e3decf5a4dc2)

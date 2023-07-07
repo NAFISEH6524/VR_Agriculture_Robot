@@ -104,3 +104,19 @@ Choose the desired parent class for the drone. You can start with a Pawn or Char
 In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.
 
 ![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/5b29510e-2a3f-4b68-b25f-e3decf5a4dc2)
+
+**Attaching Camera:**
+Now, we attached camera to our drone.
+
+
+![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/c40b69b7-04e6-4b8a-bc7e-685510c3c402)
+**
+**Activate Fuction:
+we are going to activated our drone.
+
+![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/35e22c42-0163-457e-ac8e-ef96aa53e207)
+
+**Deactivate Function:**
+we are going to deactivated our drone
+
+![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/efb6f436-6ea3-44ce-a9eb-f981868aa9a8)

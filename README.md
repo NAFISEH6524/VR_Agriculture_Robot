@@ -188,16 +188,19 @@ The autonomous robot systems designed in the project demonstrated precise and un
 The virtual simulations allowed farmers and researchers to evaluate the performance of different robot configurations, identifying the most efficient and effective seed planting strategies.
 
 **Efficient Fertilizer Application:**
+
 Algorithms for fertilizer distribution were developed and tested within the virtual simulation environment, considering crop-specific nutrient requirements and soil conditions.
 The autonomous systems implemented precise and uniform fertilizer distribution, minimizing wastage and ensuring optimal nutrient uptake by the crops.
 The virtual simulations enabled users to fine-tune the fertilizer application process, achieving accurate and efficient delivery of nutrients while reducing environmental impact.
 
 **Enhanced Efficiency and Sustainability:**
+
 The integration of virtual simulation and advanced robotics led to improved efficiency and productivity in seed planting and fertilizer application processes.
 Labor requirements were reduced as autonomous systems took over these tasks, freeing up time for farmers to focus on other essential agricultural activities.
 The precise seed planting and fertilizer application resulted in enhanced crop yields, contributing to sustainable and economically viable farming practices.
 
 **Cost and Resource Savings:**
+
 By optimizing seed placement and fertilizer distribution, the project helped farmers minimize input costs, such as seeds and fertilizers, while maximizing crop yield potential.
 Virtual simulations allowed farmers to experiment with different strategies without the need for physical implementation, reducing resource wastage and associated expenses.
 

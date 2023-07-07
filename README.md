@@ -230,3 +230,16 @@ The optimized seed planting strategies achieved through virtual simulations have
 The integration of advanced robotics, artificial intelligence, and virtual simulation technology has not only improved the efficiency and sustainability of agricultural practices but also reduced labor requirements, freeing up time for farmers to focus on other critical tasks. The project's findings have generated valuable insights and knowledge, empowering researchers and farmers with a deeper understanding of the impact of different variables on seed planting and fertilizer application.
 
 Overall, the project has highlighted the immense potential of virtual simulation and advanced robotics in revolutionizing agriculture. The outcomes support the adoption of autonomous agricultural systems and precision techniques, leading to increased crop yields, reduced resource wastage, and enhanced profitability. As technology continues to evolve, it is imperative to further explore and develop these advancements to drive sustainable and efficient farming practices, ensuring food security for a growing global population.
+
+# Refrences:
+
+1) He, S., Chen, L., & Chen, W. (2021). Usability evaluation of immersive teleoperation systems in simulated hazardous environments. Human Factors, 63(2), 227-242.
+
+2) Li, J., Li, W., Li, S., & Liu, X. (2022). A depth image-based teleoperation system for robots in unstructured environments. Journal of Intelligent & Robotic Systems, 102(1), 9-23.
+
+3) Saponas, T. S., Tan, D. S., Morris, M. R., & Balakrishnan, R. (2020). Demonstration: Haptic feedback for surface deformation with an interactive 3D map. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-3).
+   
+4) Unreal Engine - Tutorial.
+   
+5) Unreal Engine | The most powerful real-time 3D creation tool.
+

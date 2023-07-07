@@ -110,8 +110,8 @@ Now, we attached camera to our drone.
 
 
 ![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/c40b69b7-04e6-4b8a-bc7e-685510c3c402)
-**
-**Activate Fuction:
+
+**Activate Fuction:**
 we are going to activated our drone.
 
 ![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/35e22c42-0163-457e-ac8e-ef96aa53e207)
@@ -120,3 +120,16 @@ we are going to activated our drone.
 we are going to deactivated our drone
 
 ![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/efb6f436-6ea3-44ce-a9eb-f981868aa9a8)
+
+**Altitude Fuction:**
+Calculating Altitude of drone.
+
+
+![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/63c0ecfa-211f-4b61-9212-98168facbd45)
+
+**Distance Function:**
+Calculating Distance of drone.
+
+![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/f05acbad-b99b-4092-a328-ef5988ab9008)
+
+

@@ -75,3 +75,20 @@ Unreal Engine is a popular and powerful real-time 3D engine and development plat
 Unreal Engine continues to evolve and introduce new features with regular updates, empowering developers to create cutting-edge and immersive experiences across multiple industries.
 
 For this project we used Unreal Engine version 4.25.4.
+
+# Unreal Engine Steps
+In Unreal Engine, we created drone and navigate the drone in the same platform. Also, the recontruction model we obtained from the Reality Capture we imported in the Unreal Engine for the navigation of the dron.
+
+Creating a drone in Unreal Engine using Blueprints involves several steps. Here's a detailed breakdown of the process:
+
+**Set up the Project:**
+
+Launch Unreal Engine and create a new Blueprint project.
+Choose a project template or start with a blank project.
+Specify the project settings, including project name and directory.
+
+**Import Drone Assets:**
+
+Find or create 3D models for the drone's body, rotors, and any other components.
+Import the models into Unreal Engine by using the "Import" option in the Content Browser.
+Ensure the models are properly scaled and positioned for later use.

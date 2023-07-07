@@ -36,7 +36,7 @@ By achieving precise and uniform seed placement, farmers can ensure optimal crop
 
 Through the integration of advanced robotics, artificial intelligence, and virtual simulation technology, this project aims to pave the way for a new era of precision agriculture. The potential benefits include increased crop yields, reduced labor requirements, minimized environmental impact, and improved profitability for farmers. Ultimately, the project's findings and developments have the potential to shape the future of agriculture and contribute to a more sustainable and food-secure world.
 
-# State of the Art:
+# State of the Art
 
 The field of agriculture has witnessed significant advancements in recent years, driven by the integration of cutting-edge technologies. When it comes to seed planting and fertilizer application, several innovative solutions have emerged, aiming to enhance precision, efficiency, and sustainability in agricultural practices.
 
@@ -49,3 +49,29 @@ Virtual simulation technologies, such as those offered by Unreal Engine, have pl
 The integration of artificial intelligence and machine learning algorithms has also contributed to the state of the art in seed planting and fertilizer application. These algorithms can analyze vast amounts of data, including soil composition, weather patterns, crop health indicators, and historical yield data, to optimize seed planting and fertilizer distribution. By learning from patterns and making data-driven decisions, AI-powered systems can continually adapt and improve agricultural practices.
 
 While these advancements have shown great promise, there is still room for further research and innovation. The state of the art in seed planting and fertilizer application continues to evolve as new technologies emerge, and interdisciplinary collaborations drive progress. The integration of virtual simulation technology, robotics, artificial intelligence, and precision agriculture techniques holds immense potential for transforming the way we cultivate crops, leading to increased efficiency, sustainability, and global food security.
+
+# Unreal Engine
+
+Unreal Engine is a popular and powerful real-time 3D engine and development platform created by Epic Games. It provides a comprehensive suite of tools and features for creating interactive and immersive experiences across various platforms, including video games, virtual reality (VR), augmented reality (AR), architectural visualization, and more. Here are some key aspects and features of Unreal Engine:
+
+**Real-time Rendering:** Unreal Engine offers advanced real-time rendering capabilities, allowing developers to create stunning and realistic visuals. It supports high-quality materials, lighting, shadows, and post-processing effects to achieve lifelike graphics.
+
+**Blueprints Visual Scripting: **Unreal Engine includes a visual scripting system called Blueprints, which enables non-programmers to create gameplay mechanics, interactive elements, and complex behaviors using a node-based interface. It provides a user-friendly way to create game logic without writing code.
+
+**Content Creation Tools:** The engine provides a range of powerful tools for content creation, including a robust editor for designing levels and environments, a material editor for creating and editing materials, a particle system for visual effects, and a physics engine for realistic simulations.
+
+**Cross-platform Development:** Unreal Engine supports cross-platform development, allowing developers to create applications for PC, consoles, mobile devices, VR headsets, and AR platforms. It provides built-in support for major platforms, simplifying the process of deploying projects to different devices.
+
+**Blueprint Visual Scripting:** Unreal Engine includes a visual scripting system called Blueprints, which enables non-programmers to create gameplay mechanics, interactive elements, and complex behaviors using a node-based interface. It provides a user-friendly way to create game logic without writing code.
+
+**Marketplace and Community:** Unreal Engine has a thriving marketplace where developers can access a wide range of assets, including 3D models, materials, animations, and plugins, to enhance their projects. The engine also has a strong community of developers who actively share knowledge, provide support, and contribute to the growth of the engine.
+
+**Performance and Optimization:** Unreal Engine offers various optimization features and techniques to ensure high-performance execution. This includes tools for profiling and debugging, GPU and CPU optimization, and efficient memory management.
+
+**Blueprint Visual Scripting:** Unreal Engine includes a visual scripting system called Blueprints, which enables non-programmers to create gameplay mechanics, interactive elements, and complex behaviors using a node-based interface. It provides a user-friendly way to create game logic without writing code.
+
+**Industry Adoption:** Unreal Engine is widely adopted in the gaming industry and beyond. It has been used to develop highly acclaimed games, VR experiences, animated films, architectural visualizations, and training simulations. Its versatility and feature set make it a popular choice for a wide range of projects.
+
+Unreal Engine continues to evolve and introduce new features with regular updates, empowering developers to create cutting-edge and immersive experiences across multiple industries.
+
+For this project we used Unreal Engine version 4.25.4.

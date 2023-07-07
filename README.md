@@ -103,33 +103,103 @@ Open the Blueprint Editor by double-clicking on the Content Browser or right-cli
 Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.
 In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.
 
-![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/5b29510e-2a3f-4b68-b25f-e3decf5a4dc2)
+![Screenshot 2023-06-05 213022](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/f71c4737-4964-44e0-8077-987cc1bc273d)
+
 
 **Attaching Camera:**
 Now, we attached camera to our drone.
 
 
-![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/c40b69b7-04e6-4b8a-bc7e-685510c3c402)
+![Screenshot 2023-06-05 213402](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/13442ed3-212d-4a63-bd55-02bca4070d1b)
+
 
 **Activate Fuction:**
 we are going to activated our drone.
 
-![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/35e22c42-0163-457e-ac8e-ef96aa53e207)
+![Screenshot 2023-06-05 213521](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/fee5fe8a-4450-49a5-abf5-f4e2e56e24b1)
+
 
 **Deactivate Function:**
 we are going to deactivated our drone
 
-![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/efb6f436-6ea3-44ce-a9eb-f981868aa9a8)
+![Screenshot 2023-06-05 213538](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/34d153e9-e60a-4a5c-bd59-4ba4b046a270)
+
 
 **Altitude Fuction:**
 Calculating Altitude of drone.
 
 
-![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/63c0ecfa-211f-4b61-9212-98168facbd45)
+![Screenshot 2023-06-05 213553](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/0a31e05e-b48e-42c5-8c22-b6980838571d)
+
 
 **Distance Function:**
 Calculating Distance of drone.
 
-![Screenshot 2023-06-05 213319](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/f05acbad-b99b-4092-a328-ef5988ab9008)
+![Screenshot 2023-06-05 213607](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/a2a15db4-736d-4074-8377-f6c00a1bba48)
 
+**Design the Drone's Behavior:**
 
+Use the Construction Script to set up the initial positioning and attachment of the drone components.
+In the Event Graph, add nodes and script the desired behavior for the drone.
+Use input events (e.g., keyboard or gamepad inputs) to control the drone's movement, such as changing its location, rotation, or velocity.
+Implement logic for drone actions like taking off, landing, hovering, and rotating.
+Add collision detection and response to avoid obstacles or trigger specific events.
+**Add Drone Physics:**
+
+Enable physics simulation for the drone by enabling the "Simulate Physics" option in the Details panel.
+Configure the drone's collision properties, such as collision channels, collision responses, and physical materials.
+Adjust the drone's mass, drag, and other physical parameters to mimic realistic flight dynamics.
+Use constraints or physics joints to connect the drone's components, such as the rotors to the body.
+
+**Implement Camera and View:**
+
+Add a camera component to the drone Blueprint to simulate the drone's perspective.
+Configure the camera's position, rotation, field of view, and any other desired settings.
+Set up camera controls to allow the player to switch between different camera views or perspectives.
+
+**Test and Refine:**
+
+Compile and save the drone Blueprint.
+Place an instance of the drone Blueprint in the game world or level.
+Launch the game or simulation to test the drone's behavior and controls.
+Iterate on the design, making adjustments and refinements as needed.
+Test the drone in different scenarios and environments to ensure its functionality and performance.
+
+![Screenshot 2023-06-05 213652](https://github.com/NAFISEH6524/VR_Agriculture_Robot/assets/94741008/9b1c6ba1-3a6c-40c5-a632-2aa9e1e9802a)
+
+Remember that this is a general outline of the process, and specific implementation details may vary based on your project requirements and the level of complexity you wish to achieve. The Blueprint system in Unreal Engine offers flexibility, allowing you to customize the drone's behavior and interactions according to your specific needs.
+
+**Creation of Forest Environment in Unreal Engine :**
+
+To create a forest environment in Unreal Engine, you'll start by setting up the project and creating the terrain using the engine's terrain tools. Then, you'll place vegetation such as trees and bushes using foliage painting tools. Apply realistic materials to the terrain and foliage assets to add detail and variation. Set up appropriate lighting and atmospheric effects to enhance the visual appeal. Add sound effects to create an immersive auditory experience. Figure below shows the forest environment in unreal engine.
+
+Include additional details like rocks and streams, and incorporate interactive elements for engagement. Test and optimize the scene to ensure optimal performance. By following these steps, you can quickly create a captivating and realistic forest environment in Unreal Engine. Figure below shows the forest environment view from different angel in unreal engine.
+
+In conclusion, creating a forest environment in Unreal Engine involves setting up the project, designing the terrain, placing vegetation, applying realistic materials, setting up lighting and atmospheric effects, adding sound effects, incorporating small details, and optimizing the scene for performance. By following these steps, you can create a visually stunning and immersive forest environment in Unreal Engine that transports users into a realistic and captivating virtual forest setting.
+
+# Results of the Project:
+
+The project on agriculture robot in Unreal Engine yielded significant results, showcasing the potential of virtual simulation and advanced robotics in enhancing seed planting and fertilizer application in agriculture. The following outcomes were achieved:
+
+**Optimized Seed Planting:**
+
+Through virtual simulations, various seed planting parameters were tested and refined, leading to optimized seed depth, spacing, and patterns.
+The autonomous robot systems designed in the project demonstrated precise and uniform seed placement, resulting in improved crop uniformity and overall plant health.
+The virtual simulations allowed farmers and researchers to evaluate the performance of different robot configurations, identifying the most efficient and effective seed planting strategies.
+**Efficient Fertilizer Application:**
+Algorithms for fertilizer distribution were developed and tested within the virtual simulation environment, considering crop-specific nutrient requirements and soil conditions.
+The autonomous systems implemented precise and uniform fertilizer distribution, minimizing wastage and ensuring optimal nutrient uptake by the crops.
+The virtual simulations enabled users to fine-tune the fertilizer application process, achieving accurate and efficient delivery of nutrients while reducing environmental impact.
+**Enhanced Efficiency and Sustainability:**
+The integration of virtual simulation and advanced robotics led to improved efficiency and productivity in seed planting and fertilizer application processes.
+Labor requirements were reduced as autonomous systems took over these tasks, freeing up time for farmers to focus on other essential agricultural activities.
+The precise seed planting and fertilizer application resulted in enhanced crop yields, contributing to sustainable and economically viable farming practices.
+**Cost and Resource Savings:**
+
+By optimizing seed placement and fertilizer distribution, the project helped farmers minimize input costs, such as seeds and fertilizers, while maximizing crop yield potential.
+Virtual simulations allowed farmers to experiment with different strategies without the need for physical implementation, reducing resource wastage and associated expenses.
+**Knowledge and Insight Generation:**
+
+The project generated valuable insights into the potential of virtual simulation technology in designing and optimizing autonomous agricultural systems.
+Researchers and farmers gained a deeper understanding of the impact of different variables on seed planting and fertilizer application, enabling informed decision-making for future farming practices.
+Overall, the project demonstrated the effectiveness of utilizing Unreal Engine's virtual simulation technology in improving seed planting and fertilizer application processes. The results showcased enhanced efficiency, sustainability, and cost savings in agriculture, paving the way for the adoption of advanced robotic systems and precision techniques in real-world farming scenarios.
